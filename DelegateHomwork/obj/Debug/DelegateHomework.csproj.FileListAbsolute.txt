@@ -1,0 +1,7 @@
+C:\Users\tural\source\repos\DelegateHomwork\DelegateHomwork\obj\Debug\DelegateHomework.csprojAssemblyReference.cache
+C:\Users\tural\source\repos\DelegateHomwork\DelegateHomwork\obj\Debug\DelegateHomework.csproj.CoreCompileInputs.cache
+C:\Users\tural\source\repos\DelegateHomwork\DelegateHomwork\obj\Debug\DelegateHomwork.exe
+C:\Users\tural\source\repos\DelegateHomwork\DelegateHomwork\obj\Debug\DelegateHomwork.pdb
+C:\Users\tural\source\repos\DelegateHomwork\DelegateHomwork\bin\Debug\DelegateHomwork.exe.config
+C:\Users\tural\source\repos\DelegateHomwork\DelegateHomwork\bin\Debug\DelegateHomwork.exe
+C:\Users\tural\source\repos\DelegateHomwork\DelegateHomwork\bin\Debug\DelegateHomwork.pdb
